@@ -1,7 +1,7 @@
 - Oi, sou Alvaro Rocha;
-- sou estudante de TI, especificamente programação;
+- sou desenvolvedor web front-end;
 - estou atualmente estudando HTML, CSS e JAVASCRIPT;
-- estou inicialmente procurando colaborar em projetos front-end;
+- estou disposto a colaborar em projetos front-end;
 
 
 <!---
